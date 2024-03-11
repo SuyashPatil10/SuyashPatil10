@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Suyash Patil's Profile! 👋</h1>
+<h1 align="center">Suyash Patil! 👋</h1>
 
 <!-- <p align="center">
   <img width="45%" align="right" alt="Github" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif" />
