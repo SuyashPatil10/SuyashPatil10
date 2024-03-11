@@ -5,7 +5,7 @@
 </p> -->
 
 <p align="center">
-  <img width="45%" align="right" style="margin-top: 60px;" alt="Github" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXB5d25jZTJrcXF3aG40eGlobzZ3c2MwOW9jdXM3ODJrN2EwYWQ5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif" />
+  <img width="45%" align="right" style="margin-top: 200px;" alt="Github" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXB5d25jZTJrcXF3aG40eGlobzZ3c2MwOW9jdXM3ODJrN2EwYWQ5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif" />
 </p>
 
 <h2>About Me</h2>
